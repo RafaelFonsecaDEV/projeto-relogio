@@ -1,0 +1,36 @@
+/* regra valor (especifico, medida)*/
+
+h1{
+    color: chocolate;
+    font-size: 60px;
+    font-style: oblique;
+}
+
+p {
+    color: red;
+}
+
+/* seletores basicos */
+
+/* 
+ seletor de tag => tag
+ seletor de classe => .
+ seletor de id => #
+*/
+
+
+h4{
+
+
+    font-size: 30px;
+}
+
+.titulo{
+color: chartreuse;
+font-size: 40px;
+
+}
+
+#paragrafo-especial{
+    font-style: italic;
+}
